@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IOT_LAB6</string>
+
+    //Titulos xde
+    <string name="heading_one">Fast &amp; Easy TELORGANIZO</string>
+    <string name="heading_two">Inserta tu Actividades</string>
+    <string name="heading_three">Angrega tu hora productiva</string>
+
+    //Description
+    <string name="desc_one">Hey Telit@ Estresado! Incrementa tu productividad agendando todas tus actividades, No pierdas más tiempo en DIGIMUNDO!</string>
+    <string name="desc_two">Agrega actividades acádemica, relax, happy moment, modo cupido, etc. Recuerda tener balance en tu vida! y agrega como mínimo 3 actividades diferentes al día!</string>
+    <string name="desc_three">Identifica la hora del día en que tu mente esta modo crack y separa ese tiempo para que repases los cursos del profe Yarleque!</string>
+
+</resources>
