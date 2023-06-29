@@ -2,13 +2,13 @@
     <string name="app_name">IOT_LAB6</string>
 
     //Titulos xde
-    <string name="heading_one">Fast &amp; Easy TELORGANIZO</string>
-    <string name="heading_two">Inserta tu Actividades</string>
-    <string name="heading_three">Angrega tu hora productiva</string>
+    <string name="heading_one">AGENDAMAS</string>
+    <string name="heading_two">Agenda tus Actividades</string>
+    <string name="heading_three">Edita o Elimina tus actividades</string>
 
     //Description
-    <string name="desc_one">Hey Telit@ Estresado! Incrementa tu productividad agendando todas tus actividades, No pierdas más tiempo en DIGIMUNDO!</string>
-    <string name="desc_two">Agrega actividades acádemica, relax, happy moment, modo cupido, etc. Recuerda tener balance en tu vida! y agrega como mínimo 3 actividades diferentes al día!</string>
-    <string name="desc_three">Identifica la hora del día en que tu mente esta modo crack y separa ese tiempo para que repases los cursos del profe Yarleque!</string>
+    <string name="desc_one">App para incrementar tu productividad desarrollada en el Laboratorio 6 del curso de IoT en el ciclo 2023_1</string>
+    <string name="desc_two">Agrega actividades acádemicas, momentos de relajación, citas, reuniones virtuales, etc. Todo esto desde tu celular.</string>
+    <string name="desc_three">Si por alguna razón ya no realizarás una actividad agendad, puedes eliminarla o cambiarla para una fecha posterior</string>
 
 </resources>
